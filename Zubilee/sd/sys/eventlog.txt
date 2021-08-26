@@ -1,0 +1,424 @@
+2021-06-12 01:37:04 Event logging started
+2021-06-12 01:37:07 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 01:44:00 Event logging stopped
+2021-06-11 23:45:56 Event logging started
+2021-06-11 23:46:01 Warning: Lost connection to Duet (Timeout while waiting for transfer ready pin)
+2021-06-12 00:07:32 Warning: Controller has been reset
+2021-06-12 00:07:32 Connection to Linux established!
+2021-06-12 00:07:32 Event logging stopped
+2021-06-12 00:07:32 Event logging started
+2021-06-12 00:07:33 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 00:10:20 Error: Homing failed
+2021-06-12 00:11:50 Error: M307: missing parameter 'H'
+2021-06-12 00:12:06 Warning: Firmware halted
+2021-06-12 00:12:06 Warning: Firmware reset imminent
+2021-06-12 00:12:06 Event logging stopped
+2021-06-12 00:12:10 Event logging started
+2021-06-12 00:12:12 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 00:24:56 Auto tuning heater 1 completed after 3 idle and 10 tuning cycles in 704 seconds. This heater needs the following M307 command:
+ M307 H1 B0 R3.552 C170.8:120.1 D7.64 S1.00 V24.0
+2021-06-12 00:36:33 Auto tuning heater 2 completed after 3 idle and 10 tuning cycles in 670 seconds. This heater needs the following M307 command:
+ M307 H2 B0 R3.981 C166.8:115.6 D7.31 S1.00 V24.0
+2021-06-12 00:48:48 Auto tuning heater 3 completed after 3 idle and 10 tuning cycles in 706 seconds. This heater needs the following M307 command:
+ M307 H3 B0 R3.788 C167.0:117.5 D8.14 S1.00 V24.0
+2021-06-12 01:00:58 Auto tuning heater 4 completed after 3 idle and 10 tuning cycles in 702 seconds. This heater needs the following M307 command:
+ M307 H4 B0 R3.759 C181.2:125.2 D7.66 S1.00 V24.0
+2021-06-12 01:13:34 Warning: Auto tune of heater 5 failed due to bad curve fit (R=3.574, 1/C=0.0058:0.0057, D=8.2)
+2021-06-12 01:21:19 Warning: Firmware halted
+2021-06-12 01:21:19 Warning: Firmware reset imminent
+2021-06-12 01:21:19 Event logging stopped
+2021-06-12 01:21:23 Event logging started
+2021-06-12 01:21:25 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 01:21:25 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 01:21:25 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 01:21:25 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 01:21:25 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 01:22:11 Warning: Firmware halted
+2021-06-12 01:22:11 Warning: Firmware reset imminent
+2021-06-12 01:22:11 Event logging stopped
+2021-06-12 01:22:15 Event logging started
+2021-06-12 01:22:17 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 01:22:17 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 01:22:17 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 01:22:17 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 01:22:17 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 01:22:17 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 01:23:12 Error: Homing failed
+2021-06-12 01:30:38 Warning: Tool 0 was not driven because its heater temperatures were not high enough or it has a heater fault
+2021-06-12 01:30:42 Cancelled printing file 0:/gcodes/CFFFP_Bernie_Litho.gcode, print time was 0h 0m
+2021-06-12 01:33:54 Cancelled printing file 0:/gcodes/CFFFP_Bernie_Litho.gcode, print time was 0h 0m
+2021-06-12 01:42:05 Warning: motor phase B may be disconnected reported by driver(s) 1
+2021-06-12 09:27:33 Finished printing file 0:/gcodes/CFFFP_Bernie_Litho.gcode, print time was 7h 53m
+2021-06-12 09:27:46 Warning: Cannot set print file finished because there is no file ID
+2021-06-12 10:18:02 Warning: Auto tune of heater 5 failed due to bad curve fit (R=3.610, 1/C=0.0058:0.0056, D=7.9)
+2021-06-12 10:25:49 Warning: Firmware halted
+2021-06-12 10:25:49 Warning: Firmware reset imminent
+2021-06-12 10:25:49 Event logging stopped
+2021-06-12 10:25:54 Event logging started
+2021-06-12 10:25:56 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 10:25:56 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 10:25:56 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 10:25:56 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 10:25:56 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 10:38:02 Warning: Auto tune of heater 5 failed due to bad curve fit (R=3.629, 1/C=0.0064:0.0064, D=7.9)
+2021-06-12 10:45:34 Warning: Firmware reset imminent
+2021-06-12 10:45:34 Event logging stopped
+2021-06-12 10:45:39 Event logging started
+2021-06-12 10:45:41 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 10:45:41 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 10:45:41 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 10:45:41 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 10:45:41 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 10:46:36 Warning: Firmware reset imminent
+2021-06-12 10:46:36 Event logging stopped
+2021-06-12 10:46:40 Event logging started
+2021-06-12 10:46:43 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 10:46:43 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 10:46:43 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 10:46:43 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 10:46:43 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 10:58:33 Warning: Firmware reset imminent
+2021-06-12 10:58:33 Event logging stopped
+2021-06-12 10:58:39 Event logging started
+2021-06-12 10:58:42 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 10:58:42 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 10:58:42 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 10:58:42 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 10:58:42 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 11:00:15 Warning: Firmware reset imminent
+2021-06-12 11:00:15 Event logging stopped
+2021-06-12 11:00:21 Event logging started
+2021-06-12 11:00:23 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 11:00:23 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 11:00:23 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 11:00:23 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 11:00:23 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 11:01:30 Warning: Firmware reset imminent
+2021-06-12 11:01:30 Event logging stopped
+2021-06-12 11:01:35 Event logging started
+2021-06-12 11:01:37 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 11:01:37 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 11:01:37 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 11:01:37 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 11:01:37 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 11:03:36 Warning: Firmware reset imminent
+2021-06-12 11:03:36 Event logging stopped
+2021-06-12 11:03:41 Event logging started
+2021-06-12 11:03:43 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 11:03:43 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 11:03:43 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 11:03:43 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 11:03:43 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 11:06:38 Warning: Firmware reset imminent
+2021-06-12 11:06:38 Event logging stopped
+2021-06-12 11:06:42 Event logging started
+2021-06-12 11:06:44 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 11:06:44 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 11:06:44 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 11:06:44 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 11:06:44 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 11:18:42 Warning: Firmware reset imminent
+2021-06-12 11:18:42 Event logging stopped
+2021-06-12 11:18:46 Event logging started
+2021-06-12 11:18:49 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-12 11:18:49 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-12 11:18:49 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-12 11:18:49 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-12 11:18:49 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-12 11:42:12 Warning: Lost connection to Duet (Timeout while waiting for transfer ready pin)
+2021-06-13 15:48:38 Event logging started
+2021-06-13 15:48:41 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 15:48:41 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 15:48:41 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 15:48:41 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 15:48:41 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 15:49:37 Warning: Firmware reset imminent
+2021-06-13 15:49:37 Event logging stopped
+2021-06-13 15:49:42 Event logging started
+2021-06-13 15:49:44 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 15:49:44 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 15:49:44 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 15:49:44 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 15:49:45 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 15:50:23 Warning: Firmware reset imminent
+2021-06-13 15:50:23 Event logging stopped
+2021-06-13 15:50:27 Event logging started
+2021-06-13 15:50:30 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 15:50:30 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 15:50:30 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 15:50:30 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 15:50:30 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 15:51:35 Warning: Firmware reset imminent
+2021-06-13 15:51:35 Event logging stopped
+2021-06-13 15:51:40 Event logging started
+2021-06-13 15:51:43 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 15:51:43 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 15:51:43 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 15:51:43 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 15:51:43 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 15:57:38 Warning: Firmware reset imminent
+2021-06-13 15:57:38 Event logging stopped
+2021-06-13 15:57:42 Event logging started
+2021-06-13 15:57:44 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 15:57:44 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 15:57:44 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 15:57:44 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 15:57:45 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 15:57:50 Error: M950: Pin 'e1heat' is not free
+2021-06-13 16:03:13 Error: M950: Pin 'e1heat' is not free
+2021-06-13 16:03:38 Warning: Firmware reset imminent
+2021-06-13 16:03:38 Event logging stopped
+2021-06-13 16:03:42 Event logging started
+2021-06-13 16:03:45 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 16:03:45 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 16:03:45 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 16:03:45 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 16:03:45 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 16:09:51 Warning: Firmware reset imminent
+2021-06-13 16:09:51 Event logging stopped
+2021-06-13 16:09:55 Event logging started
+2021-06-13 16:09:56 Error: M106: Fan 0 is disabled
+2021-06-13 16:09:58 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 16:09:58 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 16:09:58 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 16:09:58 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 16:09:58 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 16:09:59 Error: M106: Fan 0 is disabled
+2021-06-13 16:10:02 Error: M106: Fan 0 is disabled
+2021-06-13 16:10:04 Error: M106: Fan 0 is disabled
+2021-06-13 16:12:46 Warning: Firmware halted
+2021-06-13 16:12:46 Warning: Firmware reset imminent
+2021-06-13 16:12:46 Event logging stopped
+2021-06-13 16:12:50 Event logging started
+2021-06-13 16:12:51 Error: M106: Fan 0 is disabled
+2021-06-13 16:12:53 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 16:12:53 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 16:12:53 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 16:12:53 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 16:12:53 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 16:13:28 Warning: Firmware reset imminent
+2021-06-13 16:13:28 Event logging stopped
+2021-06-13 16:13:32 Event logging started
+2021-06-13 16:13:35 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 16:13:35 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 16:13:35 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 16:13:35 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 16:13:35 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 16:14:25 Error: Homing failed
+2021-06-13 16:21:21 Warning: Firmware reset imminent
+2021-06-13 16:21:21 Event logging stopped
+2021-06-13 16:21:24 Event logging started
+2021-06-13 16:21:27 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 16:21:27 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 16:21:27 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 16:21:27 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 16:21:28 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 16:22:13 Error: Homing failed
+2021-06-13 16:23:55 Warning: Firmware reset imminent
+2021-06-13 16:23:55 Event logging stopped
+2021-06-13 16:23:59 Event logging started
+2021-06-13 16:24:01 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 16:24:01 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 16:24:01 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 16:24:01 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 16:24:01 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 16:26:17 Warning: Firmware reset imminent
+2021-06-13 16:26:17 Event logging stopped
+2021-06-13 16:26:21 Event logging started
+2021-06-13 16:26:23 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 16:26:23 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 16:26:23 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 16:26:23 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 16:26:23 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 16:29:04 Error: Heater 2 fault: temperature excursion exceeded 15.0°C (target 205.0°C, actual 230.6°C)
+2021-06-13 16:29:49 Warning: Firmware halted
+2021-06-13 16:29:49 Warning: Firmware reset imminent
+2021-06-13 16:29:49 Event logging stopped
+2021-06-13 16:29:53 Event logging started
+2021-06-13 16:29:55 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-13 16:29:55 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-13 16:29:55 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-13 16:29:55 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-13 16:29:55 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-13 19:12:25 Warning: Lost connection to Duet (Timeout while waiting for transfer ready pin)
+2021-06-13 20:41:38 Event logging stopped
+2021-06-14 10:18:57 Event logging started
+2021-06-14 10:18:59 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 10:18:59 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-14 10:18:59 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-14 10:18:59 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-14 10:18:59 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-14 10:19:03 Warning: Lost connection to Duet (Timeout while waiting for transfer ready pin)
+2021-06-14 10:27:19 Warning: Controller has been reset
+2021-06-14 10:27:19 Connection to Linux established!
+2021-06-14 10:27:19 Event logging stopped
+2021-06-14 10:27:19 Event logging started
+2021-06-14 10:27:20 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 10:27:20 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 631C
+2021-06-14 10:27:20 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 689C
+2021-06-14 10:27:20 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 657C
+2021-06-14 10:27:20 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 706C
+2021-06-14 10:28:57 Error: Homing failed
+2021-06-14 10:29:50 Warning: Firmware halted
+2021-06-14 10:29:50 Warning: Firmware reset imminent
+2021-06-14 10:29:50 Event logging stopped
+2021-06-14 10:29:54 Event logging started
+2021-06-14 10:29:56 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 10:42:59 Auto tuning heater 1 completed after 3 idle and 10 tuning cycles in 701 seconds. This heater needs the following M307 command:
+ M307 H1 B0 R3.580 C173.9:115.7 D7.83 S1.00 V24.0
+2021-06-14 10:44:05 Warning: Firmware halted
+2021-06-14 10:44:05 Warning: Firmware reset imminent
+2021-06-14 10:44:05 Event logging stopped
+2021-06-14 10:44:08 Event logging started
+2021-06-14 10:44:10 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 10:44:10 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-14 11:00:28 Auto tuning heater 2 completed after 3 idle and 10 tuning cycles in 678 seconds. This heater needs the following M307 command:
+ M307 H2 B0 R3.960 C173.1:113.6 D7.15 S1.00 V24.0
+2021-06-14 11:01:38 Warning: Firmware halted
+2021-06-14 11:01:38 Warning: Firmware reset imminent
+2021-06-14 11:01:38 Event logging stopped
+2021-06-14 11:01:42 Event logging started
+2021-06-14 11:01:44 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 11:01:44 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-14 11:01:44 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-14 11:15:02 Auto tuning heater 3 completed after 3 idle and 10 tuning cycles in 710 seconds. This heater needs the following M307 command:
+ M307 H3 B0 R3.770 C171.2:116.6 D8.41 S1.00 V24.0
+2021-06-14 11:16:07 Warning: Firmware halted
+2021-06-14 11:16:07 Warning: Firmware reset imminent
+2021-06-14 11:16:07 Event logging stopped
+2021-06-14 11:16:12 Event logging started
+2021-06-14 11:16:14 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 11:16:14 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-14 11:16:14 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-14 11:16:14 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-14 11:30:46 Auto tuning heater 4 completed after 3 idle and 10 tuning cycles in 706 seconds. This heater needs the following M307 command:
+ M307 H4 B0 R3.725 C179.2:126.9 D7.78 S1.00 V24.0
+2021-06-14 12:22:41 Warning: Firmware halted
+2021-06-14 12:22:41 Warning: Firmware reset imminent
+2021-06-14 12:22:41 Event logging stopped
+2021-06-14 12:22:45 Event logging started
+2021-06-14 12:22:47 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 12:22:47 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-14 12:22:47 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-14 12:22:47 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-14 12:22:47 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-14 12:35:05 Auto tuning heater 5 completed after 3 idle and 10 tuning cycles in 671 seconds. This heater needs the following M307 command:
+ M307 H5 B0 R3.764 C177.1:126.7 D7.29 S1.00 V24.0
+2021-06-14 13:51:16 Warning: Firmware reset imminent
+2021-06-14 13:51:16 Event logging stopped
+2021-06-14 13:51:19 Event logging started
+2021-06-14 13:51:20 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 13:51:20 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-14 13:51:20 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-14 13:51:20 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-14 13:51:20 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-14 13:51:20 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-14 13:51:21 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 13:51:21 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-14 13:51:21 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-14 13:51:21 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-14 13:51:21 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-14 13:51:21 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-14 13:52:17 Error: Homing failed
+2021-06-14 14:08:30 Error: Heater 2 fault: temperature excursion exceeded 15.0°C (target 205.0°C, actual 228.4°C)
+2021-06-14 14:08:30 Error: Heater 3 fault: temperature excursion exceeded 15.0°C (target 205.0°C, actual 227.0°C)
+2021-06-14 14:08:30 Error: Heater 4 fault: temperature excursion exceeded 15.0°C (target 215.0°C, actual 237.8°C)
+2021-06-14 14:08:30 Error: Heater 5 fault: temperature excursion exceeded 15.0°C (target 215.0°C, actual 236.6°C)
+2021-06-14 14:08:30 Warning: Tool 1 was not driven because its heater temperatures were not high enough or it has a heater fault
+2021-06-14 14:08:34 Warning: Tool 1 was not driven because its heater temperatures were not high enough or it has a heater fault
+2021-06-14 14:15:03 Warning: Firmware halted
+2021-06-14 14:15:03 Warning: Firmware reset imminent
+2021-06-14 14:15:03 Event logging stopped
+2021-06-14 14:15:06 Event logging started
+2021-06-14 14:15:07 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 14:15:08 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-14 14:15:08 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-14 14:15:08 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-14 14:15:08 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-14 14:15:08 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-14 14:15:09 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 14:15:09 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-14 14:15:09 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-14 14:15:09 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-14 14:15:09 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-14 14:15:09 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-14 14:18:12 Warning: motor phase A may be disconnected reported by driver(s) 8
+2021-06-14 14:18:12 Warning: motor phase B may be disconnected reported by driver(s) 8
+2021-06-14 14:18:16 Warning: motor phase A may be disconnected reported by driver(s) 8
+2021-06-14 14:18:16 Warning: motor phase B may be disconnected reported by driver(s) 8
+2021-06-14 14:18:30 Warning: motor phase A may be disconnected reported by driver(s) 8
+2021-06-14 14:18:30 Warning: motor phase B may be disconnected reported by driver(s) 8
+2021-06-14 14:19:17 Warning: Firmware halted
+2021-06-14 14:19:17 Warning: Firmware reset imminent
+2021-06-14 14:19:17 Event logging stopped
+2021-06-14 14:19:21 Event logging started
+2021-06-14 14:19:21 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 14:19:22 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-14 14:19:22 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-14 14:19:22 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-14 14:19:22 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-14 14:19:22 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-14 14:19:23 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-14 14:19:23 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-14 14:19:23 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-14 14:19:23 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-14 14:19:23 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-14 14:19:23 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-14 15:22:46 Warning: Lost connection to Duet (Timeout while waiting for transfer ready pin)
+2021-06-24 20:03:30 Warning: Controller has been reset
+2021-06-24 20:03:30 Connection to Linux established!
+2021-06-24 20:03:30 Event logging stopped
+2021-06-24 20:03:30 Event logging started
+2021-06-24 20:03:30 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-24 20:03:31 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-24 20:03:31 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-24 20:03:31 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-24 20:03:31 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-24 20:03:31 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-24 20:03:32 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-24 20:03:32 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-24 20:03:32 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-24 20:03:32 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-24 20:03:32 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-24 20:03:32 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-24 20:09:48 Warning: Firmware reset imminent
+2021-06-24 20:09:48 Event logging stopped
+2021-06-24 20:09:52 Event logging started
+2021-06-24 20:09:53 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-24 20:09:53 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-24 20:09:53 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-24 20:09:53 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-24 20:09:53 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-24 20:09:53 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-24 20:09:55 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-24 20:09:55 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-24 20:09:55 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-24 20:09:55 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-24 20:09:55 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-24 20:09:55 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-24 20:23:16 Warning: Firmware halted
+2021-06-24 20:23:16 Warning: Firmware reset imminent
+2021-06-24 20:23:16 Event logging stopped
+2021-06-24 20:23:20 Event logging started
+2021-06-24 20:23:20 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-24 20:23:20 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-24 20:23:20 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-24 20:23:20 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-24 20:23:20 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-24 20:23:20 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-24 20:23:22 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-24 20:23:22 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-24 20:23:22 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-24 20:23:22 Warning: M307: Heater 3 appears to be over-powered. If left on at full power, its temperature is predicted to reach 670C
+2021-06-24 20:23:22 Warning: M307: Heater 4 appears to be over-powered. If left on at full power, its temperature is predicted to reach 692C
+2021-06-24 20:23:22 Warning: M307: Heater 5 appears to be over-powered. If left on at full power, its temperature is predicted to reach 691C
+2021-06-24 20:24:35 Error: G0/G1: insufficient axes homed
+2021-06-24 20:27:32 Warning: Firmware halted
+2021-06-24 20:27:32 Warning: Firmware reset imminent
+2021-06-24 20:27:33 Event logging stopped
+2021-06-24 20:27:36 Event logging started
+2021-06-24 20:27:37 Warning: M307: Heater 0 appears to be over-powered. If left on at full power, its temperature is predicted to reach 436C
+2021-06-24 20:27:37 Warning: M307: Heater 1 appears to be over-powered. If left on at full power, its temperature is predicted to reach 647C
+2021-06-24 20:27:37 Warning: M307: Heater 2 appears to be over-powered. If left on at full power, its temperature is predicted to reach 710C
+2021-06-24 20:27:41 Warning: Lost connection to Duet (Timeout while waiting for transfer ready pin)
+2021-06-24 20:33:46 Event logging stopped
